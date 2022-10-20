@@ -1,6 +1,6 @@
-# Market List App : <a target="_blank" href="https://market-list-grocery-app.herokuapp.com/">Visit Here</a>
+# Evan Shaw Digital Business Card: <a target="_blank" href="https://evanshaw-digital-bcard.netlify.app/">Visit Here</a>
 
-<img src="https://github.com/EvShaw/seeker/blob/main/public/assets/seekerLogo.png" alt="Logo">
+<img src="https://github.com/EvShaw/react-digital-business-card/blob/main/public/images/evanshaw-digital-bcard.png" alt="Logo">
 
 ### A Static React.js digital business card application with meaningful links to contact, get in touch, and connect via Twitter, LinkedIn, GitHub, or through a personal website.
 
